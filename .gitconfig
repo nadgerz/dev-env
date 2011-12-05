@@ -1,0 +1,9 @@
+[user]
+	email = stephen.a.ingram@gmail.com
+	name = Stephen A. Ingram
+[alias]
+	unstage = reset HEAD
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
